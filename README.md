@@ -21,6 +21,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 天气：{{weather.DATA}} 
 
 气温：{{temp.DATA}} 
+最低气温：{{mintem.DATA}}
+最高气温：{{maxtem.DATA}}
 
 风向：{{wind_dir.DATA}} 
 
